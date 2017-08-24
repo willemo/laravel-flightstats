@@ -508,16 +508,16 @@
         },
         {
             "name": "willemo/flightstats",
-            "version": "v0.0.1",
+            "version": "v0.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/willemo/flightstats.git",
-                "reference": "1c6bbf9fcff7cb81d38d10aabfe847d05ca57f01"
+                "reference": "1cd805115cccdc93a2ab7dbaeae2b8df7efd51d3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/willemo/flightstats/zipball/1c6bbf9fcff7cb81d38d10aabfe847d05ca57f01",
-                "reference": "1c6bbf9fcff7cb81d38d10aabfe847d05ca57f01",
+                "url": "https://api.github.com/repos/willemo/flightstats/zipball/1cd805115cccdc93a2ab7dbaeae2b8df7efd51d3",
+                "reference": "1cd805115cccdc93a2ab7dbaeae2b8df7efd51d3",
                 "shasum": ""
             },
             "require": {
@@ -542,7 +542,7 @@
                 }
             ],
             "description": "PHP client for the FlightStats API",
-            "time": "2017-08-24 11:48:25"
+            "time": "2017-08-24 13:29:26"
         }
     ],
     "packages-dev": [],
