@@ -10,5 +10,15 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "prefer-stable" : true,
+    "require": {
+        "php": ">=5.5",
+        "illuminate/support": "^5.4.0",
+        "willemo/flightstats": "~0.0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Willemo\\LaravelFlightStats\\": "src/"
+        }
+    }
 }
