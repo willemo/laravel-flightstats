@@ -1,0 +1,14 @@
+{
+    "name": "willemo/laravel-flightstats",
+    "description": "Laravel service provider for the FlightStats API.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Willem Oostendorp",
+            "email": "willem@wioo.nl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
