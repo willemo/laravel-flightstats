@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "10035ad292a27625e4d1914e7a470d92",
+    "content-hash": "963a60eb294c2d128d435671f0d278fb",
     "packages": [
         {
             "name": "doctrine/inflector",
@@ -735,16 +735,16 @@
         },
         {
             "name": "willemo/flightstats",
-            "version": "v0.2.2",
+            "version": "v0.2.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/willemo/flightstats.git",
-                "reference": "43eada4177dc44f350a812600cc9ac25e2f01c1d"
+                "reference": "c3f22d3762d2b68f27569242d55342b7b199d91d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/willemo/flightstats/zipball/43eada4177dc44f350a812600cc9ac25e2f01c1d",
-                "reference": "43eada4177dc44f350a812600cc9ac25e2f01c1d",
+                "url": "https://api.github.com/repos/willemo/flightstats/zipball/c3f22d3762d2b68f27569242d55342b7b199d91d",
+                "reference": "c3f22d3762d2b68f27569242d55342b7b199d91d",
                 "shasum": ""
             },
             "require": {
@@ -769,7 +769,7 @@
                 }
             ],
             "description": "PHP client for the FlightStats API",
-            "time": "2017-08-30T15:11:33+00:00"
+            "time": "2017-08-31T10:25:07+00:00"
         }
     ],
     "packages-dev": [],
