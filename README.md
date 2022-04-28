@@ -2,6 +2,10 @@
 
 Laravel service provider for the FlightStats API.
 
+## This project is abandoned
+
+This project is no longer supported.
+
 ## Installation
 
 Install the package using Composer:
